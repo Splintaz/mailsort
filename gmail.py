@@ -20,7 +20,6 @@ def read_mailbox():
     global checker
     global mail_content
     attachment = input("What do you wish to do with the emails that have attachments? [downloadall/skipall/manual] ")
-    skiplisting = input("Do you wish to list all of your mail? [Y/N] ")
     try:
         os.chdir("C:/")
     except:
