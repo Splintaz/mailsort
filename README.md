@@ -8,6 +8,7 @@ It allows you to list all of your inboxes and select different mailboxes for eas
 
 # Instructions
 
-1. First, enable less secure apps access so that Mailsort can log you in.
-2. Run gmail.py and enter your credentials.
-3. You will now be prompted questions which will make the sorting easier later on.
+1. First, enable less secure apps access so that Mailsort can log you in. You can find it inside "Manage your Google Account" > "Security" > "Less Secure App Access"
+![mailsort](images/lesssecure.png)
+3. Run gmail.py and enter your credentials.
+4. You will now be prompted questions which will make the sorting easier later on.
