@@ -1,4 +1,5 @@
-
+# Mailsort is a gmail sorting application created in Python 
+# Created by https://github.com/Splintaz/
 import imaplib
 import getpass
 import re
